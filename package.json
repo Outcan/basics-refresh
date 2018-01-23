@@ -1,0 +1,23 @@
+{
+  "name": "basics-refresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Outcan/basics-refresh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Outcan/basics-refresh/issues"
+  },
+  "homepage": "https://github.com/Outcan/basics-refresh#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^7.0.0"
+  }
+}
