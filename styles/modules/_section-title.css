@@ -3,7 +3,7 @@
     font-weight: 300;
     text-align: center;
     &--blue {
-        color: $mainBlue;
+        color: var(--mainBlue);
     }
     @mixin atSmall {
         font-size: 3.75rem;

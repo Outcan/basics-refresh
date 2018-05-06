@@ -1,7 +1,7 @@
 var gulp = require("gulp"),
     postcss = require("gulp-postcss"),
     autoprefixer = require("autoprefixer"),
-    cssvars = require("postcss-simple-vars"),
+    cssvars = require("postcss-custom-properties"),
     cssImport = require("postcss-import"),
     mixins = require("postcss-mixins"),
     nested = require("postcss-nested"),
