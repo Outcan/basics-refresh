@@ -5,6 +5,12 @@
     &--blue {
         color: var(--mainBlue);
     }
+
+    &--less-margin {
+        margin-top: 0;
+        margin-bottom: 1.3rem;
+    }
+
     @mixin atSmall {
         font-size: 3.75rem;
     }
@@ -16,6 +22,7 @@
         margin-left: auto;
         margin-right: auto;
         margin-bottom: 0.6rem;
+
         @mixin atSmall {
             position: relative;
             top: 8px;
